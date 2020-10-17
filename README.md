@@ -5,7 +5,7 @@
 ![Plaid](https://usaherald.com/wp-content/uploads/2020/08/visaplaid.jpg)
 
 <!-- H2 Heading  -->
-## Case Study of Plaid FinTech company to get practuce at research, Git, and Markdown
+## Case Study of Plaid FinTech company to get practice at research, Git, and Markdown
 
 <!-- Contributors -->
 ### Contributors
